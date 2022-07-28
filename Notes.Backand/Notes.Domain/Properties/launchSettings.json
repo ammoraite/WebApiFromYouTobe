@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Notes.WebApi": {
+      "commandName": "Executable",
+      "executablePath": "C:\\обучение c#\\c#\\С# Project Repositories\\WebApiFromYouTobe\\Notes.Backand\\Notes.WebApi\\Notes.WebApi.csproj",
+      "workingDirectory": "C:\\обучение c#\\c#\\С# Project Repositories\\WebApiFromYouTobe\\Notes.Backand\\Notes.WebApi\\bin\\Debug\\net6.0"
+    }
+  }
+}
